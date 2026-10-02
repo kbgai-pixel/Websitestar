@@ -24,3 +24,6 @@ This is a mobile-first single-page website for TGIS, featuring a clean brand-foc
 Open `index.html` in any browser to view the website locally.
 
 If you want to preview it in VS Code, use the Live Preview extension or simply open the file in a browser.
+
+Author
+Khadijah Haliru
